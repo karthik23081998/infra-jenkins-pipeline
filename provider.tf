@@ -14,6 +14,6 @@ provider "aws" {
 backend "s3" {
     bucket = "bhanu-2000-usa"
     key = "jp/innfraterrafrom"
-    region = "ap-south-1 "
+    region = "ap-south-1"
 }
   }
